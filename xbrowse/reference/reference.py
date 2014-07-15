@@ -3,8 +3,8 @@ import os
 
 import requests
 import pymongo
-import MySQLdb as mdb
-import pandas
+# import MySQLdb as mdb
+# import pandas
 from xbrowse.utils import get_progressbar
 
 from xbrowse import genomeloc
